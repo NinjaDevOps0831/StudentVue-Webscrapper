@@ -1,0 +1,1 @@
+python3 studentvue-webscrapper.py
